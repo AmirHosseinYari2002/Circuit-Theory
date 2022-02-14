@@ -1,0 +1,113 @@
+
+
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%uncomment if require: \path (0,300); %set diagram left start at 0, and has height of 300
+
+%Shape: Inductor [id:dp2749283687037851] 
+\draw   (283,114) -- (311.24,114) .. controls (317.73,114) and (323,118.48) .. (323,124) .. controls (323,129.52) and (317.73,134) .. (311.24,134) .. controls (317.73,134) and (323,138.48) .. (323,144) .. controls (323,149.52) and (317.73,154) .. (311.24,154) .. controls (317.73,154) and (323,158.48) .. (323,164) .. controls (323,169.52) and (317.73,174) .. (311.24,174) .. controls (317.73,174) and (323,178.48) .. (323,184) .. controls (323,189.52) and (317.73,194) .. (311.24,194) -- (283,194) ;
+%Shape: Inductor [id:dp10157115850891474] 
+\draw   (394,194) -- (365.76,194) .. controls (359.27,194) and (354,189.52) .. (354,184) .. controls (354,178.48) and (359.27,174) .. (365.76,174) .. controls (359.27,174) and (354,169.52) .. (354,164) .. controls (354,158.48) and (359.27,154) .. (365.76,154) .. controls (359.27,154) and (354,149.52) .. (354,144) .. controls (354,138.48) and (359.27,134) .. (365.76,134) .. controls (359.27,134) and (354,129.52) .. (354,124) .. controls (354,118.48) and (359.27,114) .. (365.76,114) -- (394,114) ;
+%Shape: Resistor [id:dp4804237653949306] 
+\draw   (203,114) -- (217.4,114) -- (220.6,94) -- (227,134) -- (233.4,94) -- (239.8,134) -- (246.2,94) -- (252.6,134) -- (259,94) -- (265.4,134) -- (268.6,114) -- (283,114) ;
+%Shape: Capacitor [id:dp7664343879246203] 
+\draw   (123,114) -- (159,114) (167,94) -- (167,134) (159,94) -- (159,134) (167,114) -- (203,114) ;
+%Shape: Resistor [id:dp9789460163218449] 
+\draw   (394,114) -- (408.4,114) -- (411.6,94) -- (418,134) -- (424.4,94) -- (430.8,134) -- (437.2,94) -- (443.6,134) -- (450,94) -- (456.4,134) -- (459.6,114) -- (474,114) ;
+%Shape: Capacitor [id:dp003089908766001903] 
+\draw   (511,114) -- (511,150) (531,158) -- (491,158) (531,150) -- (491,150) (511,158) -- (511,194) ;
+%Straight Lines [id:da9502262058349797] 
+\draw    (474,114) -- (511,114) ;
+%Straight Lines [id:da9774342735356429] 
+\draw    (394,194) -- (511,194) ;
+%Shape: Output [id:dp5772447072120868] 
+\draw   (123,173.5) .. controls (111.99,173.5) and (103.06,164.62) .. (103.06,153.67) .. controls (103.06,142.71) and (111.99,133.83) .. (123,133.83) .. controls (134.01,133.83) and (142.94,142.71) .. (142.94,153.67) .. controls (142.94,164.62) and (134.01,173.5) .. (123,173.5) -- cycle (123,193.33) -- (123,173.5) (123,114) -- (123,133.83) ;
+%Straight Lines [id:da45878973051285477] 
+\draw    (124,193.33) -- (283,194) ;
+%Shape: Circle [id:dp002950369878580439] 
+\draw   (203,219.5) .. controls (203,212.04) and (209.04,206) .. (216.5,206) .. controls (223.96,206) and (230,212.04) .. (230,219.5) .. controls (230,226.96) and (223.96,233) .. (216.5,233) .. controls (209.04,233) and (203,226.96) .. (203,219.5) -- cycle ;
+%Shape: Circle [id:dp9011343998980093] 
+\draw   (424,217.5) .. controls (424,210.04) and (430.04,204) .. (437.5,204) .. controls (444.96,204) and (451,210.04) .. (451,217.5) .. controls (451,224.96) and (444.96,231) .. (437.5,231) .. controls (430.04,231) and (424,224.96) .. (424,217.5) -- cycle ;
+%Shape: Circle [id:dp7539280310878997] 
+\draw   (97,96.5) .. controls (97,89.04) and (103.04,83) .. (110.5,83) .. controls (117.96,83) and (124,89.04) .. (124,96.5) .. controls (124,103.96) and (117.96,110) .. (110.5,110) .. controls (103.04,110) and (97,103.96) .. (97,96.5) -- cycle ;
+%Shape: Circle [id:dp12321163133890956] 
+\draw   (178,83.5) .. controls (178,76.04) and (184.04,70) .. (191.5,70) .. controls (198.96,70) and (205,76.04) .. (205,83.5) .. controls (205,90.96) and (198.96,97) .. (191.5,97) .. controls (184.04,97) and (178,90.96) .. (178,83.5) -- cycle ;
+%Shape: Circle [id:dp5669146397343197] 
+\draw   (276,82.5) .. controls (276,75.04) and (282.04,69) .. (289.5,69) .. controls (296.96,69) and (303,75.04) .. (303,82.5) .. controls (303,89.96) and (296.96,96) .. (289.5,96) .. controls (282.04,96) and (276,89.96) .. (276,82.5) -- cycle ;
+%Shape: Circle [id:dp02172296249291139] 
+\draw   (371,81.5) .. controls (371,74.04) and (377.04,68) .. (384.5,68) .. controls (391.96,68) and (398,74.04) .. (398,81.5) .. controls (398,88.96) and (391.96,95) .. (384.5,95) .. controls (377.04,95) and (371,88.96) .. (371,81.5) -- cycle ;
+%Curve Lines [id:da48750107078158234] 
+\draw    (308,96.67) .. controls (310.96,57.27) and (361.45,56.68) .. (365.83,96.81) ;
+\draw [shift={(366,98.67)}, rotate = 265.91] [color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.75]    (10.93,-3.29) .. controls (6.95,-1.4) and (3.31,-0.3) .. (0,0) .. controls (3.31,0.3) and (6.95,1.4) .. (10.93,3.29)   ;
+%Curve Lines [id:da9077410264569561] 
+\draw    (366,98.67) .. controls (364.03,57.3) and (313.55,55.71) .. (308.21,94.85) ;
+\draw [shift={(308,96.67)}, rotate = 275.57] [color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.75]    (10.93,-3.29) .. controls (6.95,-1.4) and (3.31,-0.3) .. (0,0) .. controls (3.31,0.3) and (6.95,1.4) .. (10.93,3.29)   ;
+%Shape: Circle [id:dp35176687605997947] 
+\draw   (486,89.5) .. controls (486,82.04) and (492.04,76) .. (499.5,76) .. controls (506.96,76) and (513,82.04) .. (513,89.5) .. controls (513,96.96) and (506.96,103) .. (499.5,103) .. controls (492.04,103) and (486,96.96) .. (486,89.5) -- cycle ;
+
+% Text Node
+\draw (110.38,149.1) node [anchor=north west][inner sep=0.75pt]  [rotate=-270] [align=left] {\textbf{{\Large +}}};
+% Text Node
+\draw (116.09,141.66) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\huge -}}};
+% Text Node
+\draw (82.74,140.7) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 3}}};
+% Text Node
+\draw (208,206) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 1}}};
+% Text Node
+\draw (429,204) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 1}}};
+% Text Node
+\draw (103,83) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 2}}};
+% Text Node
+\draw (184,71) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 3}}};
+% Text Node
+\draw (281,71) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 4}}};
+% Text Node
+\draw (377,70) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 5}}};
+% Text Node
+\draw (128,67) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 0.01}}};
+% Text Node
+\draw (517,124) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 0.01}}};
+% Text Node
+\draw (233,64) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 1}}};
+% Text Node
+\draw (426,62) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 1}}};
+% Text Node
+\draw (321,40) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 0.1}}};
+% Text Node
+\draw (271,162) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 0.2}}};
+% Text Node
+\draw (373,162) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 0.3}}};
+% Text Node
+\draw (162,112) node [anchor=north west][inner sep=0.75pt]  [rotate=-270] [align=left] {\textbf{{\Large +}}};
+% Text Node
+\draw (143.09,83.66) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\huge -}}};
+% Text Node
+\draw (198.09,81.66) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\huge -}}};
+% Text Node
+\draw (260.38,108.1) node [anchor=north west][inner sep=0.75pt]  [rotate=-270] [align=left] {\textbf{{\Large +}}};
+% Text Node
+\draw (301.38,111.1) node [anchor=north west][inner sep=0.75pt]  [rotate=-270] [align=left] {\textbf{{\Large +}}};
+% Text Node
+\draw (347.38,111.1) node [anchor=north west][inner sep=0.75pt]  [rotate=-270] [align=left] {\textbf{{\Large +}}};
+% Text Node
+\draw (313.24,177) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\huge -}}};
+% Text Node
+\draw (353.09,177.66) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\huge -}}};
+% Text Node
+\draw (302,89) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Huge .}}};
+% Text Node
+\draw (362,89) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Huge .}}};
+% Text Node
+\draw (382.38,111.1) node [anchor=north west][inner sep=0.75pt]  [rotate=-270] [align=left] {\textbf{{\Large +}}};
+% Text Node
+\draw (458.09,82.66) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\huge -}}};
+% Text Node
+\draw (494.09,146.66) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\huge -}}};
+% Text Node
+\draw (487.38,145.1) node [anchor=north west][inner sep=0.75pt]  [rotate=-270] [align=left] {\textbf{{\Large +}}};
+% Text Node
+\draw (492,78) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 6}}};
+
+
+\end{tikzpicture}

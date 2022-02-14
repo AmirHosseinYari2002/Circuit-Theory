@@ -1,0 +1,100 @@
+
+
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%uncomment if require: \path (0,300); %set diagram left start at 0, and has height of 300
+
+%Shape: Resistor [id:dp11323628148028653] 
+\draw   (230.36,119) -- (230.36,134.9) -- (246,138.43) -- (214.72,145.49) -- (246,152.56) -- (214.72,159.62) -- (246,166.69) -- (214.72,173.75) -- (246,180.82) -- (214.72,187.88) -- (230.36,191.41) -- (230.36,207.31) ;
+%Shape: Diamond [id:dp5713973313849907] 
+\draw   (125,119) -- (150,153.5) -- (125,188) -- (100,153.5) -- cycle ;
+%Straight Lines [id:da7549623963159167] 
+\draw    (125,127) -- (125,177) ;
+\draw [shift={(125,179)}, rotate = 270] [color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.75]    (10.93,-3.29) .. controls (6.95,-1.4) and (3.31,-0.3) .. (0,0) .. controls (3.31,0.3) and (6.95,1.4) .. (10.93,3.29)   ;
+%Straight Lines [id:da4781005201566739] 
+\draw    (125,72) -- (231,73) ;
+%Straight Lines [id:da1531030958874915] 
+\draw    (231,73) -- (230.36,119) ;
+%Straight Lines [id:da7236728095773304] 
+\draw    (125,72) -- (125,119) ;
+%Straight Lines [id:da6430518629423914] 
+\draw    (124.72,252.31) -- (229.72,253.31) ;
+%Straight Lines [id:da3416092642143387] 
+\draw    (230.36,207.31) -- (229.72,253.31) ;
+%Straight Lines [id:da17761027748374647] 
+\draw    (125,188) -- (124.72,252.31) ;
+%Shape: Resistor [id:dp5938788399833066] 
+\draw   (333.36,120) -- (333.36,135.9) -- (349,139.43) -- (317.72,146.49) -- (349,153.56) -- (317.72,160.62) -- (349,167.69) -- (317.72,174.75) -- (349,181.82) -- (317.72,188.88) -- (333.36,192.41) -- (333.36,208.31) ;
+%Shape: Output [id:dp7891857094731023] 
+\draw   (396,87.5) .. controls (396,70.1) and (410.33,56) .. (428,56) .. controls (445.67,56) and (460,70.1) .. (460,87.5) .. controls (460,104.9) and (445.67,119) .. (428,119) .. controls (410.33,119) and (396,104.9) .. (396,87.5) -- cycle (364,87.5) -- (396,87.5) (492,87.5) -- (460,87.5) ;
+%Shape: Capacitor [id:dp11351571249989112] 
+\draw   (528,104) -- (528,162.05) (558,174.95) -- (498,174.95) (558,162.05) -- (498,162.05) (528,174.95) -- (528,233) ;
+%Straight Lines [id:da18572514116589423] 
+\draw    (333,233) -- (528,233) ;
+%Straight Lines [id:da8466522639663285] 
+\draw    (492,87.5) -- (528,87) ;
+%Straight Lines [id:da24438127062517934] 
+\draw    (528,87) -- (528,104) ;
+%Straight Lines [id:da6458586517530485] 
+\draw    (333,233) -- (333.36,208.31) ;
+%Straight Lines [id:da4122296650149564] 
+\draw    (333.36,120) -- (334,87) ;
+%Straight Lines [id:da6543407037736555] 
+\draw    (334,87) -- (364,87.5) ;
+%Shape: Circle [id:dp8343038470074486] 
+\draw   (158,231.5) .. controls (158,224.04) and (164.04,218) .. (171.5,218) .. controls (178.96,218) and (185,224.04) .. (185,231.5) .. controls (185,238.96) and (178.96,245) .. (171.5,245) .. controls (164.04,245) and (158,238.96) .. (158,231.5) -- cycle ;
+%Shape: Circle [id:dp45431970673928723] 
+\draw   (156,50.5) .. controls (156,43.04) and (162.04,37) .. (169.5,37) .. controls (176.96,37) and (183,43.04) .. (183,50.5) .. controls (183,57.96) and (176.96,64) .. (169.5,64) .. controls (162.04,64) and (156,57.96) .. (156,50.5) -- cycle ;
+%Shape: Circle [id:dp6379915094849093] 
+\draw   (417,210.5) .. controls (417,203.04) and (423.04,197) .. (430.5,197) .. controls (437.96,197) and (444,203.04) .. (444,210.5) .. controls (444,217.96) and (437.96,224) .. (430.5,224) .. controls (423.04,224) and (417,217.96) .. (417,210.5) -- cycle ;
+%Shape: Circle [id:dp11693926645628538] 
+\draw   (330,57.5) .. controls (330,50.04) and (336.04,44) .. (343.5,44) .. controls (350.96,44) and (357,50.04) .. (357,57.5) .. controls (357,64.96) and (350.96,71) .. (343.5,71) .. controls (336.04,71) and (330,64.96) .. (330,57.5) -- cycle ;
+%Shape: Circle [id:dp4332331605610735] 
+\draw   (500,55.5) .. controls (500,48.04) and (506.04,42) .. (513.5,42) .. controls (520.96,42) and (527,48.04) .. (527,55.5) .. controls (527,62.96) and (520.96,69) .. (513.5,69) .. controls (506.04,69) and (500,62.96) .. (500,55.5) -- cycle ;
+
+% Text Node
+\draw (213.12,116.35) node [anchor=north west][inner sep=0.75pt]   [align=left] {{\Large +}};
+% Text Node
+\draw (214.28,179.58) node [anchor=north west][inner sep=0.75pt]   [align=left] {{\LARGE -}};
+% Text Node
+\draw (177.52,148.35) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 0.5}}};
+% Text Node
+\draw (316.12,117.35) node [anchor=north west][inner sep=0.75pt]   [align=left] {{\Large +}};
+% Text Node
+\draw (317.28,180.58) node [anchor=north west][inner sep=0.75pt]   [align=left] {{\LARGE -}};
+% Text Node
+\draw (354.52,147.35) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 0.2}}};
+% Text Node
+\draw (404.49,75) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large +}}};
+% Text Node
+\draw (436.33,66) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\huge -}}};
+% Text Node
+\draw (420.41,25) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 6}}};
+% Text Node
+\draw (500,177.95) node [anchor=north west][inner sep=0.75pt]   [align=left] {{\Large +}};
+% Text Node
+\draw (499,131) node [anchor=north west][inner sep=0.75pt]   [align=left] {{\LARGE -}};
+% Text Node
+\draw (532,127) node [anchor=north west][inner sep=0.75pt]   [align=left] {{\Large \textbf{0.01}}};
+% Text Node
+\draw (47.52,141.35) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 6VL}}};
+% Text Node
+\draw (286.52,149.35) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large VL}}};
+% Text Node
+\draw (163,218) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 1}}};
+% Text Node
+\draw (162,37) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 2}}};
+% Text Node
+\draw (423,200) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 3}}};
+% Text Node
+\draw (335,44) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 4}}};
+% Text Node
+\draw (506,43) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 5}}};
+% Text Node
+\draw (127,98.5) node [anchor=north west][inner sep=0.75pt]   [align=left] {{\Large +}};
+% Text Node
+\draw (127,182) node [anchor=north west][inner sep=0.75pt]   [align=left] {{\LARGE -}};
+
+
+\end{tikzpicture}

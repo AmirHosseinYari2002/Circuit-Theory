@@ -1,0 +1,59 @@
+
+
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%uncomment if require: \path (0,300); %set diagram left start at 0, and has height of 300
+
+%Shape: Output [id:dp9398714379778375] 
+\draw   (188,112.79) .. controls (205.4,112.79) and (219.5,127.03) .. (219.5,144.58) .. controls (219.5,162.14) and (205.4,176.37) .. (188,176.37) .. controls (170.6,176.37) and (156.5,162.14) .. (156.5,144.58) .. controls (156.5,127.03) and (170.6,112.79) .. (188,112.79) -- cycle (188,81) -- (188,112.79) (188,208.17) -- (188,176.37) ;
+%Shape: Output [id:dp2598129170051382] 
+\draw   (294,112.79) .. controls (311.4,112.79) and (325.5,127.03) .. (325.5,144.58) .. controls (325.5,162.14) and (311.4,176.37) .. (294,176.37) .. controls (276.6,176.37) and (262.5,162.14) .. (262.5,144.58) .. controls (262.5,127.03) and (276.6,112.79) .. (294,112.79) -- cycle (294,81) -- (294,112.79) (294,208.17) -- (294,176.37) ;
+%Shape: Output [id:dp17896628426978434] 
+\draw   (399,113.79) .. controls (416.4,113.79) and (430.5,128.03) .. (430.5,145.58) .. controls (430.5,163.14) and (416.4,177.37) .. (399,177.37) .. controls (381.6,177.37) and (367.5,163.14) .. (367.5,145.58) .. controls (367.5,128.03) and (381.6,113.79) .. (399,113.79) -- cycle (399,82) -- (399,113.79) (399,209.17) -- (399,177.37) ;
+%Straight Lines [id:da28553882554654786] 
+\draw    (188,81) -- (465,80.67) ;
+%Straight Lines [id:da6478488800545705] 
+\draw    (188,208.17) -- (466,207.67) ;
+%Shape: Free Drawing [id:dp08407404460417411] 
+\draw  [color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=3] [line join = round][line cap = round] (477,80.67) .. controls (477,80.67) and (477,80.67) .. (477,80.67) ;
+%Shape: Free Drawing [id:dp5091018861406162] 
+\draw  [color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=3] [line join = round][line cap = round] (508,80.67) .. controls (508,80.67) and (508,80.67) .. (508,80.67) ;
+%Shape: Free Drawing [id:dp33832118968685454] 
+\draw  [color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=3] [line join = round][line cap = round] (480,207.67) .. controls (480,207.67) and (480,207.67) .. (480,207.67) ;
+%Shape: Free Drawing [id:dp9306651847774561] 
+\draw  [color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=3] [line join = round][line cap = round] (509,206.67) .. controls (509,206.67) and (509,206.67) .. (509,206.67) ;
+%Shape: Free Drawing [id:dp21201056186753298] 
+\draw  [color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=3] [line join = round][line cap = round] (508,117.67) .. controls (508,117.67) and (508,117.67) .. (508,117.67) ;
+%Shape: Free Drawing [id:dp5766500951884588] 
+\draw  [color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=3] [line join = round][line cap = round] (508,162.67) .. controls (508,162.67) and (508,162.67) .. (508,162.67) ;
+%Shape: Circle [id:dp022090955080598107] 
+\draw   (281,237.5) .. controls (281,230.04) and (287.04,224) .. (294.5,224) .. controls (301.96,224) and (308,230.04) .. (308,237.5) .. controls (308,244.96) and (301.96,251) .. (294.5,251) .. controls (287.04,251) and (281,244.96) .. (281,237.5) -- cycle ;
+%Shape: Circle [id:dp6708333331486533] 
+\draw   (279,54.5) .. controls (279,47.04) and (285.04,41) .. (292.5,41) .. controls (299.96,41) and (306,47.04) .. (306,54.5) .. controls (306,61.96) and (299.96,68) .. (292.5,68) .. controls (285.04,68) and (279,61.96) .. (279,54.5) -- cycle ;
+
+% Text Node
+\draw (181,119) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large +}}};
+% Text Node
+\draw (181,138) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\huge -}}};
+% Text Node
+\draw (133,130) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large x}}};
+% Text Node
+\draw (287,119) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large +}}};
+% Text Node
+\draw (287,138) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\huge -}}};
+% Text Node
+\draw (239,130) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large x}}};
+% Text Node
+\draw (392,120) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large +}}};
+% Text Node
+\draw (392,139) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\huge -}}};
+% Text Node
+\draw (347,129) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large x}}};
+% Text Node
+\draw (287,225) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 1}}};
+% Text Node
+\draw (285,41) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{{\Large 2}}};
+
+
+\end{tikzpicture}
